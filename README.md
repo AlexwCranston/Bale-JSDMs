@@ -4,7 +4,7 @@
 
 Authors: TBC
 
-This repository contains all R scripts for a paper (in prep) using joint species distribution modelling using Hierarchical Modelling of Species Communities (HMSC) using transect data collected from the Bale Mountains National Park. The project aims to assess the impacts of livestock grazing on the ungulate community of Bale Mountains National Park,
+This repository contains all R scripts for a paper (in prep) using joint species distribution modelling using Hierarchical Modelling of Species Communities (HMSC) using transect data collected from the Bale Mountains National Park. The project aims to assess the impacts of livestock grazing on the ungulate community of Bale Mountains National Park.
 
 Data associated with this paper to be used in conjunction with this code is available at: TBC
 
