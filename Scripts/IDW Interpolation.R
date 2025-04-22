@@ -9,7 +9,7 @@ library(RColorBrewer)
 library(gstat)
 library(ggspatial)
 
-#### Load in Data ## We choose data with 5 year intervals ####
+#### Load in Data 
 
 crs= 20137 # This is the EPSG code for our UTM zone "+proj=utm +zone=37"
 
