@@ -37,6 +37,7 @@ Population estimates for all species using survey data are conducted using "Dist
 
 Please see below for the output of devtools::session_info() used to perform the analyses for this paper.
 
+```
 - Session info --------------------------------------------------------------------------------------------------------
  setting  value
  version  R version 4.4.2 (2024-10-31 ucrt)
@@ -232,4 +233,4 @@ Please see below for the output of devtools::session_info() used to perform the 
  * -- Packages attached to the search path.
 
 -----------------------------------------------------------------------------------------------------------------------
-
+```
