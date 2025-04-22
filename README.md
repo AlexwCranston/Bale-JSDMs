@@ -1,6 +1,6 @@
 ## Understanding Impacts from Domestic Livestock on Ungulate Communities in Bale Mountains National Park
 
-## Overview
+### Overview
 
 Authors: TBC
 
